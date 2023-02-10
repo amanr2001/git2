@@ -1,0 +1,9 @@
+Step:1 - Start
+
+Step:2 - Declare Variables Radius and Area
+
+Step:3 - Input Radius
+
+Step:4 - Calculate the area of circle, Area = 3.14 * Radius * Radius
+
+Step:5 - End

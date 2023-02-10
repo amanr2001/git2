@@ -1,0 +1,9 @@
+Step:1- Start
+
+Step:2- Read the values num1, num2
+
+Step:3- compute the sum of entered numbers , sum = num1 + num2
+
+Step:4- print sum
+
+Step:5- End

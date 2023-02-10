@@ -1,0 +1,17 @@
+Step:1 - Start
+
+Step:2 - Read the value n
+
+Step:3 - Declare variables sum and i
+
+Step:4 - Assign values as sum=0 , i=1
+
+Step:5 - while (i<=n).
+
+Step:6 - Check if(i%2 ==0), if true perform sum=sum+i, i=i+1
+	   if false do nothing
+		
+Step:7 - Print sum
+
+Step:8 - End
+
